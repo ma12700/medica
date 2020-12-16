@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1047424347524",
+    "firebase_url": "https://medica-48684-default-rtdb.firebaseio.com",
+    "project_id": "medica-48684",
+    "storage_bucket": "medica-48684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047424347524:android:a99f2926174453816241d1",
+        "android_client_info": {
+          "package_name": "com.example.medica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047424347524-8mao7nus6u2b4mrpcq57uqlpq5mn42s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMyO6dQ5DR6YPEDo_KplM6KKTYOv3g-Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047424347524-8mao7nus6u2b4mrpcq57uqlpq5mn42s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
